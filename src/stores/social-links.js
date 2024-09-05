@@ -7,7 +7,7 @@ export const useSocialLinks = defineStore('socialLinks', {
 				id: 1,
 				name: '@azimxan',
 				icon: '/images/telegram.svg',
-				url: 'https://t.me/azimkhan_abdulkhanov'
+				url: 'https://t.me/azimxan'
 			},
 			{ 
 				id: 2,
