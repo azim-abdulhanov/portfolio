@@ -36,7 +36,7 @@ const socialLinks = socialLinksStore.getSocialLinks
           :key='social.id'  
           class="flex items-center gap-x-2.5"
         >   
-          <img :src="social.image" :alt="social.name" class="w-5 h-5 dark:invert">
+          <img :src="social.icon" :alt="social.name" class="w-5 h-5 dark:invert">
           <a 
             :href="social.url"
             target='_blank'

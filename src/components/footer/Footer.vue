@@ -51,7 +51,7 @@ const toggleDarkMode = () => {
 							class="bg-black dark:bg-white"
 						>
 							<img
-								:src="social.image"
+								:src="social.icon"
 								:alt="social.name"
 								class="size-5 dark:invert"
 							/>
