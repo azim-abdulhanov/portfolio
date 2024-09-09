@@ -54,7 +54,7 @@ export const useProjects = defineStore('projects', {
 			{
 				id: 9,
 				name: 'Netflix Clone',
-				image: '/images/project8.png',
+				image: '/images/project9.png',
 				url: 'https://github.com/azim-abdulhanov'
 			},
 		]
