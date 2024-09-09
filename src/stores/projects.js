@@ -51,6 +51,12 @@ export const useProjects = defineStore('projects', {
 				image: '/images/project8.png',
 				url: 'https://vue-blogs-lovat.vercel.app/'
 			},
+			{
+				id: 9,
+				name: 'Netflix Clone',
+				image: '/images/project8.png',
+				url: 'https://github.com/azim-abdulhanov'
+			},
 		]
 	}),
 	getters: {
