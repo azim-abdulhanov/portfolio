@@ -57,6 +57,12 @@ export const useProjects = defineStore('projects', {
 				image: '/images/project9.png',
 				url: 'https://github.com/azim-abdulhanov/netflix-clone'
 			},
+			{
+				id: 10,
+				name: 'Vue Market',
+				image: '/images/project10.png',
+				url: 'https://vue-market-iota.vercel.app/'
+			},
 		]
 	}),
 	getters: {
