@@ -6,8 +6,8 @@ export const useWorks = defineStore('works', {
 			{
 				id: 1,
 				year: '2023 - Present',
-				company: 'Upwork | Frontend Developer',
-				description: 'I work in Upwork at the position of Frontend Developer participated in the development of web sites.',
+				company: 'Next Gen | Frontend Developer',
+				description: 'At Next Gen, I am working as a frontend developer.',
 			},
 			{
 				id: 2,
@@ -17,10 +17,10 @@ export const useWorks = defineStore('works', {
 			},
 			{
 				id: 3,
-				year: '2021 - 2022',
-				company: 'Neo Camp',
-				description: 'I interned at this company in the position of Frontend Developer.',
-			},
+				year: '2022',
+				company: 'Upwork | Frontend Developer',
+				description: 'I work in Upwork at the position of Frontend Developer participated in the development of web sites.',
+			}
 		]
 	}),
 	getters: {
